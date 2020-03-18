@@ -1,5 +1,5 @@
 
-print("Give me a number between 1 and 10!")
+print("Give me a number between 1 and 10! ")
 number = int(input())
 from random import randrange
 random_number = (randrange(1, 11))
